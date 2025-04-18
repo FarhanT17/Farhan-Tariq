@@ -11,4 +11,4 @@
 
 ## 📫 Let's Connect
 - GitHub: [github.com/farhantariq](https://github.com/farhantariq)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/farhant17)
