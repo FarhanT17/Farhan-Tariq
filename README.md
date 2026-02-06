@@ -2,7 +2,7 @@
 
 🎓 MSc Cyber Security graduate (Northumbria University, London)  
 💻 Passionate SOC Analyst | Threat Detection | Incident Response | SIEM | TryHackMe SOC L1 | PhishGuard Project
-🔐 Cybersecurity enthusiast aiming to make the digital world safer  
+ 🔐 Cybersecurity enthusiast aiming to make the digital world safer  
 
 
 ## 🚀 Projects
