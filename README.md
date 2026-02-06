@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Farhan Tariq
 
-🎓 MSc Cyber Security student at Northumbria University  
-💻 Passionate Software Developer | React Native | MERN Stack | Firebase  
+🎓 MSc Cyber Security graduate (Northumbria University, London)  
+💻 Passionate SOC Analyst | Threat Detection | Incident Response | SIEM | TryHackMe SOC L1 | PhishGuard Project
 🔐 Cybersecurity enthusiast aiming to make the digital world safer  
 
+
 ## 🚀 Projects
+- 🛡️ **Phishguard App** – Python, React Native, Distilbert, FASTAPI
 - 💈 **Barber Booking App** – React Native, Firebase  
 - 🌐 **Portfolio Website** – React, Tailwind, Node.js  
 - 🛡️ **Network Security Tool** – Python, Linux, Wireshark
 
 ## 📫 Let's Connect
-- GitHub: [github.com/farhantariq](https://github.com/farhantariq)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/farhant17)
+- GitHub: [https://github.com/FarhanT17]
+- LinkedIn: [https://linkedin.com/in/FarhanT17]
